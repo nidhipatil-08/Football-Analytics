@@ -117,16 +117,9 @@ streamlit run app.py
 
 Streamlit will print a local URL, usually `http://localhost:8501`, which you can open in your browser.
 
-## Deploy with Streamlit Community Cloud
+## Deploy with Streamlit Community Cloud - LIVE DEMO
 
-1. Create a GitHub repository and upload `app.py`, `football_players.csv`, `requirements.txt` and `README.md`.
-2. Sign in to Streamlit Community Cloud using your GitHub account.
-3. Create a new app and select your repository and branch.
-4. Set the main file path to `app.py`.
-5. Deploy the app.
-6. Open the deployed URL and test the filters, charts and CSV download.
-
-No API keys or secrets are required. Keep the CSV in the same directory as `app.py`.
+https://football-analytics-rv4g83evkzfy5mckhftmcr.streamlit.app/
 
 ## Validation and limitations
 
